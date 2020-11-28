@@ -2,5 +2,5 @@
 
 Esta saga de libros cuentan la historia de un hacker excepcional.
 
-**Joan Miquel Ortega**
+**Joan Miquel Ortega**, Git fan.
 joanmiquelortega@gmail.com
